@@ -13,3 +13,4 @@
  - [3.3 XML配置界面](Dui开发笔记/3.3XML配置界面.md)
  - [3.4 WindowImplBase类的使用](Dui开发笔记/3.4WindowImplBase类的使用.md)
  - [3.5 完整的自绘标题栏](Dui开发笔记/3.5完整的自绘标题栏.md)
+ - [3.6 界面布局](Dui开发笔记/3.6界面布局.md)
